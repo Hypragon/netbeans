@@ -5,6 +5,7 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
 <?php
+//cambio despliegue
 $arr = array(7, "siete", 8, "ocho", array("sorprendente", "array", "me he montado"), 15=> "quince", 30 => "treinta");
 var_dump($arr);
 $arr2 = [];
